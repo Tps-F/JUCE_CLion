@@ -12,6 +12,7 @@ CLion
  
 JUCE_CLion allows you to create a project by simply opening CmakeLists.txt in CLion.
 
+https://user-images.githubusercontent.com/63702646/126873953-461b2abf-5ae0-4c85-a7aa-ac3c90a4d0ba.jpg
 
 ## Getting Started
 
