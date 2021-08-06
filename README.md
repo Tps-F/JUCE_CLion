@@ -54,6 +54,9 @@ Also, if you want to load an existing PluginEditor.cpp, etc., replace the file.
 
 Also, if you want to add files, please add them from CLion.
 
+# How to build
+I use Visual Studio compiler
+https://pleiades.io/help/clion/quick-tutorial-on-configuring-clion-on-windows.html#MSVC
 # Warning.
 
 For now, it is not possible to migrate code created using this project to JUCE.
